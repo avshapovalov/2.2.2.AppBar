@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">2.2.2.AppBar</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="ok">Ок</string>
+    <string name="taskEndTime">Завершение задачи</string>
+    <string name="taskStartTime">Начало задачи</string>
+    <string name="showAddress">Показать адрес</string>
+    <string name="entermoney">Ввод денег</string>
+    <string name="informationAboutPaymentHint">Информация об оплате</string>
+    <string name="bankCardCheckBoxHint">С банковской карты</string>
+    <string name="movilePhoneCheckBoxHint">С мобильного телефона</string>
+    <string name="cashAddressHint">Наличными по адресу</string>
+    <string name="backward">Назад</string>
+    <string name="forward">Вперед</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="enterName">Введите имя</string>
+    <string name="email">Электронная почта</string>
+    <string name="enterEmail">Введите адрес электронной почты</string>
+    <string name="clear">Очистить</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+</resources>
